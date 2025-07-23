@@ -1,0 +1,5 @@
+E:\Somsak_FRP_Field_Kit\
+├── FRP_Checkpoint.ps1
+├── Deploy.cmd
+└── Logs\
+    └── FRP_Log.txt   ← ถูกสร้างอัตโนมัติเมื่อรันระบบ
